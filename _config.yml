@@ -1,0 +1,14 @@
+layout_spectrum: 0.24635541252791882
+typography_spectrum: 0.9816645148675889
+color:
+  brandStrength: 0.37838232470676303
+  lightness: 0.320706247119233
+  saturation: 0.21637033461593091
+  rhythmicContrast: 0.23263927572406828
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: PhotoSplash
