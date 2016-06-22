@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[PhotoSplash]]></title>
         <description><![CDATA[PhotoSplash]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/photosplash/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 15:20:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 22 Jun 2016 20:28:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photosplash/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/289e7c55-9c6b-4c94-9242-6057fddc6584.jpg" alt="Bionaire - air filtration systems">]]></description>
+            <link>https://thegrid.ai/photosplash/bionaire-air-filtration-systems/index.html</link>
+            <guid isPermaLink="false">cd012008-1976-45b2-81ba-59704b4bab1f</guid>
+            <pubDate>Wed, 22 Jun 2016 20:28:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6baf6c3b-9a65-49e9-96a7-b5049fce9835.jpg" alt="Mumbles Lighthouse">]]></description>
-            <link>undefinedmumbles-lighthouse/index.html</link>
+            <link>https://thegrid.ai/photosplash/mumbles-lighthouse/index.html</link>
             <guid isPermaLink="false">12fb5b77-4f6c-49e9-94b2-a37a153f58e2</guid>
             <pubDate>Wed, 22 Jun 2016 15:20:00 GMT</pubDate>
         </item>
